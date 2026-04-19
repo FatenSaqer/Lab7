@@ -1,1 +1,2 @@
 # Lab7
+This assignment demonstrates how to load and explore a dataset using Python in Google Colab. The advertising.csv file is uploaded to the Colab environment and read into a pandas DataFrame called ad_data. The dataset contains information such as user behavior and demographic features, which are used for further analysis and modeling, particularly for applying logistic regression techniques. The goal is to understand the data structure, inspect its contents, and prepare it for machine learning tasks.
